@@ -4,7 +4,7 @@
 #wb_main { height: 2830px; }
 #wb_footer { background: transparent none repeat-x scroll left top; height: 67px; }
 #wb_footer { height: 67px; }
-body { background: #ffffff url("../gallery_gen/ba3ef7dc0fd998c2404083c09bcf3d67.jpg") no-repeat scroll center top; }
+body { background: #ffffff url("https://dl.dropboxusercontent.com/u/2725749/DigitalizeCurrency2.jpg") no-repeat scroll center top; }
 .wb_sbg { background: transparent url("gallery/0000-ts1418371543.jpg") repeat-x scroll center top; }
 body, .wb_sbg { min-width: 320px; min-height: 2967px; }
 .root { width: 320px; height: 2967px; overflow: hidden; }
